@@ -4115,8 +4115,8 @@ Created using IcoMoon - icomoon.io
 -------------------------------- */
 
 @font-face {
-  font-family: yekan;
-  src: url("../fonts/Yekan\ Bakh\ Fa-En\ 06\ Bold.woff");
+  font-family: samsung;
+  src: url("../fonts/samsungsharpsans-medium.woff");
 }
 
 /*------------------------
@@ -7478,12 +7478,12 @@ a.credit {
   padding-bottom: 0;
 }
 * {
-  font-family: yekan;
+  font-family: samsung;
   text-align: center;
   align-items: center;
 }
 body {
-  font-family: yekan;
+  font-family: samsung;
 }
 a {
   color: red;
@@ -7921,6 +7921,7 @@ footer {
       align-items: space-between;
       justify-content: center;
       margin: 0 auto;
+      text-align: center;
     }
   }
 }
